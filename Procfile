@@ -1,1 +1,1 @@
-web: gunicorn hello.wsgi --bind 
+web: gunicorn web_project.wsgi
